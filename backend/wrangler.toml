@@ -1,0 +1,6 @@
+name = "blogger"
+compatibility_date = "2023-12-01"
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiYTgxZDljOTQtYWYwMS00MjNkLWFkYjQtNDcwODBmYzhmYzQ1IiwidGVuYW50X2lkIjoiZmMxMmE1Yjk2YzcxODUzOTMyZjdlOGFkMzg1MjhmNWVkODYyOTRkNDM0NmExMzY5NWI4MDQ5MjY4OWI5MWRjMCIsImludGVybmFsX3NlY3JldCI6IjZmMTI4MjViLTg0ZjMtNDYzMS1hNGM0LWU5Y2I2NWU2ODY2YSJ9.jU79MvTdbEXz2DZS8m5iyrP7Kr0_TRiBY7djbrS_Lm8"
+JWT_SECRET = "gopissssh"
